@@ -1,0 +1,9 @@
+{
+  "name": "write-like-me",
+  "description": "Drafts Slack messages, Jira comments, GitHub PR/issue text, and similar content on your behalf in your own writing voice instead of default AI-speak, learned from samples of your real writing.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Mahmoud Dolah",
+    "email": "mahmoudamindolah@gmail.com"
+  }
+}
